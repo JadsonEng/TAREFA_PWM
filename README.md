@@ -5,7 +5,7 @@
 Com o emprego do módulo PWM presente no microcontrolador RP2040, 
 projete um sistema com a ferramenta Pico SDK para simular o controle do ângulo de um
 servomotor, de modo que a posição do servomotor será de 180°, 90° e depois 0° por cinco segundos cada posição. 
-A seguir, o servomotor transiciona sua posição suavemente de 0° a 180° e novamente de 108° a 0°.
+A seguir, o servomotor transiciona sua posição suavemente de 0° a 180° e novamente de 180° a 0°.
 Esta simulação contemplará o motor micro servo padrão, presente no simulador de eletrônica online Wokwi. Para
 condução desta prática, será necessário simular os componentes listados abaixo.
 1) Microcontrolador Raspberry Pi Pico W.
